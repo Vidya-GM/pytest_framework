@@ -139,6 +139,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_pytest/
 
 # Spyder project settings
 .spyderproject
@@ -285,6 +286,9 @@ pip-selfcheck.json
 
 # Local History for Visual Studio Code
 .history/
+
+# Files created for reference
+what_we_covered.txt
 
 # Built Visual Studio Code Extensions
 *.vsix
